@@ -1,0 +1,19 @@
+{
+  "name": "typescript-user-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6",
+    "inquirer": "^8.2.4",
+    "nodemon": "^2.0.20",
+    "ts-node": "^8.10.2",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "watch": "nodemon"
+  },
+  "dependencies": {
+    "consola": "2.15.3"
+  }
+}
